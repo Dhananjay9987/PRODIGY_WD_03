@@ -29,5 +29,5 @@ To play the game, you'll need:
    ```bash
    git clone https://github.com/Dhananjay9987/TicTacToe-using-Javascript.git
 2. **Navigate to project directory** <br>
-  cd TicTacToe-using-Javascript
+  cd TicTacToe-using-Javascript <br>
 3.**Run the file**
